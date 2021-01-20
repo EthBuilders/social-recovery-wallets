@@ -1,0 +1,22 @@
+{
+  "name": "social-recovery-wallets",
+  "version": "1.0.0",
+  "description": "Riff off of Vitalik's Social Recovery Wallet Idea for EthGlobal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenMan79/social-recovery-wallets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KenMan79/social-recovery-wallets/issues"
+  },
+  "homepage": "https://github.com/KenMan79/social-recovery-wallets#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
