@@ -1,0 +1,45 @@
+steps to set up the project structures 
+1) upgrade npm 
+$nvm install node 
+$node -v
+v15.6.0
+2) $npx create-react-app 
+	create src folder, node_modules and package.json
+3) smoke test react
+$cd social-recovery-wallets
+$npm run start
+4) add dependencies to package.json 
+"@truffle/hdwallet-provider": "1.1.0",  //convenient and easy to configure network connection to ethereum through infura.io (or any other compatible provider)
+"babel-polyfill": "6.26.0", //babel transcompiler for ES6+
+"babel-preset-env": "1.7.0",
+"babel-preset-es2015": "6.24.1",
+"babel-preset-stage-2": "6.24.1",
+"babel-preset-stage-3": "6.24.1",
+"babel-register": "6.26.0",
+"bootstrap": "4.5.2", //css library
+"chai": "4.2.0", //test framework
+"chai-as-promised": "7.1.1",
+"chai-bignumber": "3.0.0",
+"dotenv": "8.2.0", //reading .env file for private settings
+"rimble-ui": "^0.14.0",
+"styled-components": "^5.2.1",
+"truffle": "5.1.45",
+"truffle-flattener": "1.5.0",
+"truffle-hdwallet-provider-privkey": "0.3.0",
+"web3": "1.2.6" //client side interaction with smart contract
+5)install dependencies
+$npm install 
+6)create truffle project
+$truffle init
+created contracts folder, migrations, test folders and truffle-config.js
+7)create file .babelrc
+8)added the following to truffle-config.js
+require('babel-register');
+require('babel-polyfill');
+require('dotenv').config();
+9)create .env file
+10)add the following to truffle-config.js
+contracts_directory: './src/contracts/',
+contracts_build_directory: './src/abis/',
+put contract and abis are in src folder, same as react js files, so that js files can access changes to contracts automatically.
+11)mv contract/ src/
