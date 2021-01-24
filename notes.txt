@@ -3,7 +3,7 @@ steps to set up the project structures
 $nvm install node 
 $node -v
 v15.6.0
-2) $npx create-react-app 
+2) $npx create-react-app social-recovery-wallets
 	create src folder, node_modules and package.json
 3) smoke test react
 $cd social-recovery-wallets
