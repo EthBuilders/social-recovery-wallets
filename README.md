@@ -22,11 +22,13 @@ Riff off of Vitalik's Social Recovery Wallet Idea for EthGlobal
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[[Contributors][contributors-shield](https://github.com/EthBuilders/social-recovery-wallets/graphs/contributors)]
-[[Forks][forks-shield](https://github.com/EthBuilders/social-recovery-wallets/network/members)]
-[[Stargazers][stars-shield](https://github.com/EthBuilders/social-recovery-wallets/stargazers)]
-[[Issues][issues-shield](https://github.com/EthBuilders/social-recovery-wallets/issues)]
-[[MIT License][license-shield](https://github.com/EthBuilders/social-recovery-wallets/blob/main/LICENSE)]
+
+
+[![Contributors][contributors-shield]](https://github.com/EthBuilders/social-recovery-wallets/graphs/contributors)
+[![Forks][forks-shield]](https://github.com/EthBuilders/social-recovery-wallets/network/members)
+[![Stargazers][stars-shield]](https://github.com/EthBuilders/social-recovery-wallets/stargazers)
+[[Issues][issues-shield]](https://github.com/EthBuilders/social-recovery-wallets/issues)
+[![MIT License][license-shield]](https://github.com/EthBuilders/social-recovery-wallets/blob/main/LICENSE)
 <!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 
@@ -94,17 +96,16 @@ Riff off of Vitalik's Social Recovery Wallet Idea for EthGlobal
 
 ### Built With
 
-
-* [React 17.0.1](https://reactjs.org/docs/getting-started.html)
-* [React-Dom 17.0.1](https://reactjs.org/docs/react-dom.html)
-* [React-Scripts 4.0.1](https://www.npmjs.com/package/react-scripts) 
-* [React-Bootstrap 1.0.0-beta.5](https://react-bootstrap.github.io/)
-* [Rimble-UI 0.14.0](https://rimble.consensys.design/components/rimble-ui)
-* [Styled-Components 5.2.1](https://styled-components.com/)
-* [Truffle 5.1.45](https://www.trufflesuite.com/docs/truffle/getting-started/installation)
-* [Truffle-Flattener 1.5.0](https://www.npmjs.com/package/truffle-flattener)
-* [Web-Vitals 0.2.4](https://github.com/GoogleChrome/web-vitals#installation) 
-* [Web3 1.2.6](https://www.npmjs.com/package/web3)
+* [![React][17.0.1]](https://reactjs.org/docs/getting-started.html)
+* [![React-Dom][17.0.1]](https://reactjs.org/docs/react-dom.html)
+* [![React-Scripts][4.0.1]](https://www.npmjs.com/package/react-scripts) 
+* [![React-Bootstrap][1.0.0-beta.5]](https://react-bootstrap.github.io/)
+* [![Rimble-UI][0.14.0]](https://rimble.consensys.design/components/rimble-ui)
+* [![Styled-Components][5.2.1]](https://styled-components.com/)
+* [![Truffle][5.1.45]](https://www.trufflesuite.com/docs/truffle/getting-started/installation)
+* [![Truffle-Flattener][1.5.0]](https://www.npmjs.com/package/truffle-flattener)
+* [![Web-Vitals][0.2.4]](https://github.com/GoogleChrome/web-vitals#installation) 
+* [![Web3][1.2.6]](https://www.npmjs.com/package/web3)
 
 
 <!-- GETTING STARTED -->
@@ -134,12 +135,11 @@ This is an example of how to list things you need to use the software and how to
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+<!-- ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+_For more examples, please refer to the [Documentation](https://example.com)_ -->
 
 
 <!-- ROADMAP -->
@@ -165,7 +165,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See [https://github.com/EthBuilders/social-recovery-wallets/blob/main/LICENSE] for more information.
+Distributed under the MIT License. See [license] for more information.
 
 
 
@@ -189,15 +189,13 @@ Project Link: [https://github.com/EthBuilders/social-recovery-wallets.git](https
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+[contributors-shield]: https://img.shields.io/github/contributors/EthBuilders/social-recovery-wallets.svg?style=for-the-badge
+[contributors-url]: https://github.com/EthBuilders/social-recovery-wallets/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/EthBuilders/social-recovery-wallets.svg?style=for-the-badge
+[forks-url]: https://github.com/EthBuilders/social-recovery-wallets/network/members
+[stars-shield]: https://img.shields.io/github/stars/EthBuilders/social-recovery-wallets.svg?style=for-the-badge
+[stars-url]: https://github.com/EthBuilders/social-recovery-wallets/stargazers
+[issues-shield]: https://img.shields.io/github/issues/EthBuilders/social-recovery-wallets.svg?style=for-the-badge
+[issues-url]: https://github.com/EthBuilders/social-recovery-wallets/issues
+[license-shield]: https://img.shields.io/github/license/EthBuilders/social-recovery-wallets.svg?style=for-the-badge
+[license-url]: https://github.com/EthBuilders/social-recovery-wallets/blob/master/LICENSE.txt
