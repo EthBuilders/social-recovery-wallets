@@ -22,11 +22,11 @@ Riff off of Vitalik's Social Recovery Wallet Idea for EthGlobal
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][https://github.com/EthBuilders/social-recovery-wallets/graphs/contributors]
-[![Forks][forks-shield]][https://github.com/EthBuilders/social-recovery-wallets/network/members]
-[![Stargazers][stars-shield]][https://github.com/EthBuilders/social-recovery-wallets/stargazers]
-[![Issues][issues-shield]][https://github.com/EthBuilders/social-recovery-wallets/issues]
-[![MIT License][license-shield]][https://github.com/EthBuilders/social-recovery-wallets/blob/main/LICENSE]
+[[Contributors][contributors-shield](https://github.com/EthBuilders/social-recovery-wallets/graphs/contributors)]
+[[Forks][forks-shield](https://github.com/EthBuilders/social-recovery-wallets/network/members)]
+[[Stargazers][stars-shield](https://github.com/EthBuilders/social-recovery-wallets/stargazers)]
+[[Issues][issues-shield](https://github.com/EthBuilders/social-recovery-wallets/issues)]
+[[MIT License][license-shield](https://github.com/EthBuilders/social-recovery-wallets/blob/main/LICENSE)]
 <!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 
@@ -85,11 +85,11 @@ Riff off of Vitalik's Social Recovery Wallet Idea for EthGlobal
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Here's a blank template to get started:
+<!-- Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description` -->
 
 
 ### Built With
