@@ -22,12 +22,10 @@ Riff off of Vitalik's Social Recovery Wallet Idea for EthGlobal
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-
-
 [![Contributors][contributors-shield]](https://github.com/EthBuilders/social-recovery-wallets/graphs/contributors)
 [![Forks][forks-shield]](https://github.com/EthBuilders/social-recovery-wallets/network/members)
 [![Stargazers][stars-shield]](https://github.com/EthBuilders/social-recovery-wallets/stargazers)
-[[Issues][issues-shield]](https://github.com/EthBuilders/social-recovery-wallets/issues)
+[![Issues][issues-shield]](https://github.com/EthBuilders/social-recovery-wallets/issues)
 [![MIT License][license-shield]](https://github.com/EthBuilders/social-recovery-wallets/blob/main/LICENSE)
 <!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
 
@@ -177,11 +175,11 @@ Project Link: [https://github.com/EthBuilders/social-recovery-wallets.git](https
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+<!-- ## Acknowledgements
 
 * []()
 * []()
-* []()
+* []() -->
 
 
 
