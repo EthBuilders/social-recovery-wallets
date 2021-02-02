@@ -22,19 +22,19 @@ Riff off of Vitalik's Social Recovery Wallet Idea for EthGlobal
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Contributors][contributors-shield]][https://github.com/EthBuilders/social-recovery-wallets/graphs/contributors]
+[![Forks][forks-shield]][https://github.com/EthBuilders/social-recovery-wallets/network/members]
+[![Stargazers][stars-shield]][https://github.com/EthBuilders/social-recovery-wallets/stargazers]
+[![Issues][issues-shield]][https://github.com/EthBuilders/social-recovery-wallets/issues]
+[![MIT License][license-shield]][https://github.com/EthBuilders/social-recovery-wallets/blob/main/LICENSE]
+<!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/EthBuilders/social-recovery-wallets">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -43,14 +43,14 @@ Riff off of Vitalik's Social Recovery Wallet Idea for EthGlobal
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/EthBuilders/social-recovery-wallets"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/EthBuilders/social-recovery-wallets">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/EthBuilders/social-recovery-wallets/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/EthBuilders/social-recovery-wallets/issues">Request Feature</a>
   </p>
 </p>
 
@@ -82,8 +82,6 @@ Riff off of Vitalik's Social Recovery Wallet Idea for EthGlobal
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -96,10 +94,17 @@ Here's a blank template to get started:
 
 ### Built With
 
-* []()
-* []()
-* []()
 
+* [React 17.0.1](https://reactjs.org/docs/getting-started.html)
+* [React-Dom 17.0.1](https://reactjs.org/docs/react-dom.html)
+* [React-Scripts 4.0.1](https://www.npmjs.com/package/react-scripts) 
+* [React-Bootstrap 1.0.0-beta.5](https://react-bootstrap.github.io/)
+* [Rimble-UI 0.14.0](https://rimble.consensys.design/components/rimble-ui)
+* [Styled-Components 5.2.1](https://styled-components.com/)
+* [Truffle 5.1.45](https://www.trufflesuite.com/docs/truffle/getting-started/installation)
+* [Truffle-Flattener 1.5.0](https://www.npmjs.com/package/truffle-flattener)
+* [Web-Vitals 0.2.4](https://github.com/GoogleChrome/web-vitals#installation) 
+* [Web3 1.2.6](https://www.npmjs.com/package/web3)
 
 
 <!-- GETTING STARTED -->
@@ -119,7 +124,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://https://github.com/EthBuilders/social-recovery-wallets.git
    ```
 2. Install NPM packages
    ```sh
@@ -140,7 +145,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/EthBuilders/social-recovery-wallets/issues) for a list of proposed features (and known issues).
 
 
 
@@ -160,16 +165,14 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [https://github.com/EthBuilders/social-recovery-wallets/blob/main/LICENSE] for more information.
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/EthBuilders/social-recovery-wallets.git](https://github.com/EthBuilders/social-recovery-wallets)
 
 
 
