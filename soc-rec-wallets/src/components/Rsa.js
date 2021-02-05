@@ -21,6 +21,7 @@ console.log("PrivateKey",privateKey)
 
 rsa.setPublicString(publicKey);
 var originText = 'sample String Value';
+//encrypt
 var encrypted = rsa.encrypt(originText);
 console.log("encrypted",encrypted)
 
