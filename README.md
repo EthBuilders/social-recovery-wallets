@@ -1,4 +1,4 @@
-# Guardian - Social Recovery Wallet
+# ALKEMY - Social Recovery Wallet
 The Guardian wallet is an Ethereum-based smart contract wallet that enables users to recover their seed phrase anytime, anywhere, in a secure, decentralized, and anonymous way.
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -14,10 +14,10 @@ The Guardian wallet is an Ethereum-based smart contract wallet that enables user
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
 
-  <h3 align="center">GUARDIAN Social Recovery Wallet</h3>
+  <h3 align="center">ALKEMY Social Recovery Wallet</h3>
 
   <p align="center">
-    We created the Guardian wallet to help address one of the challenges to the mass adoption of crypto currency, the fear of losing access to money forever due to forgotten passwords and lost seed phrases.  There are too many stories of early adopters who have amassed Bitcoins but have been locked out of their fortunes due to password and seed phrase mismanagement.  We hope to make the ownership and storage of crypto currency a little more forgiving than it currently is to make it easier for the everyday person to participate in the crypto economy.
+    We created the Alkemy wallet to help address one of the challenges to the mass adoption of crypto currency, the fear of losing access to money forever due to forgotten passwords and lost seed phrases.  There are too many stories of early adopters who have amassed Bitcoins but have been locked out of their fortunes due to password and seed phrase mismanagement.  We hope to make the ownership and storage of crypto currency a little more forgiving than it currently is to make it easier for the everyday person to participate in the crypto economy.
     <br />
     <a href="https://github.com/EthBuilders/social-recovery-wallets"><strong>Explore the docs »</strong></a>
     <br />
@@ -58,7 +58,7 @@ The Guardian wallet is an Ethereum-based smart contract wallet that enables user
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The team at Alkemy decided to explore the use of a defi protocol to help come up with a solution for a non-defi, real world problem.  The problem - losing access to your money forever because you forgot the password and lost the seed phrase. Our solution - split, encrypt, and distribute pieces of the seed phrase to randomly selected, anonymous members of the application.  These members, known as "Guardians" will store the piece of information until the "Owner" of the seed phrase requests to recover their seed phrase.
+The team at Alkemy decided to explore the use of a defi protocol to help come up with a solution for a non-defi, real world problem.  The problem - losing access to your money forever because you forgot the password and lost the seed phrase. Our solution - split, encrypt, and distribute pieces of the seed phrase to randomly selected, anonymous members of the application.  These members, known as "Guardians" will store the piece of information until the owner of the seed phrase requests to recover it.
 
 ### Built With
 
