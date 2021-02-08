@@ -60,6 +60,7 @@ The Guardian wallet is an Ethereum-based smart contract wallet that enables user
 
 The team at Alkemy decided to explore the use of a defi protocol to help come up with a solution for a non-defi, real world problem.  The problem - losing access to your money forever because you forgot the password and lost the seed phrase. Our solution - split, encrypt, and distribute pieces of the seed phrase to randomly selected, anonymous members of the application.  These members, known as "Guardians" will store the piece of information until the owner of the seed phrase requests to recover it.
 
+
 ### Built With
 
 * [React 17.0.1](https://reactjs.org/docs/getting-started.html)
@@ -76,7 +77,7 @@ The team at Alkemy decided to explore the use of a defi protocol to help come up
 * [Matic](https://docs.matic.network/docs/develop/getting-started)
 * [AAVE](https://docs.aave.com/developers/)
 * [IPFS](https://docs.ipfs.io/install/command-line/#package-managers)
-  
+
 
 
 <!-- GETTING STARTED -->
@@ -168,7 +169,6 @@ Project Link: [https://github.com/EthBuilders/social-recovery-wallets.git](https
 
 <!-- ACKNOWLEDGEMENTS -->
 <!-- ## Acknowledgements
-
 * []()
 * []()
 * []() -->
